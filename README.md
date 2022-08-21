@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-git clone https://github.com/ak14aman/
+git clone https://github.com/ak14aman/NOT-NETFLIX.git
 cd not-netflix
 npm install
 npm start
